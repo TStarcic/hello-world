@@ -1,2 +1,3 @@
 # hello-world
-Pocetak rada s GitHub
+<p/>Pocetak rada s GitHub<p/>
+Moje ime je TS i trenutno ucim kako raditi s GitHub.
